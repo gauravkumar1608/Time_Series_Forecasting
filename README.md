@@ -12,5 +12,4 @@ The aim of this project is to run different time series forecasting methods and 
 ## Use Case of forecasting methods:
 The prediciton can be used by real estate agents, local councils and public as an aid in their decisions making. Real estate agents can guage the size of opportunity available and decide on how to exploit it. Local councils can use this prediction to determine potential rise in pressure on public services such as water supply, heating requirements etc. Public can use this data to get a sense of demand in market and get an idea on direction where prices will move.
 
-Note:
-If you want to see output of code with plots then please refer pdf file.
+**Note: If you want to see output of code with plots then please refer pdf file.**
